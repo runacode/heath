@@ -1,7 +1,7 @@
-<?php $company = "DAHL S AUTO WORKS INC";
-$phone = "(507) 864-7711";
-	$address1 = "207 N ELM ST";
-	$address2 = "RUSHFORD, MN 55971";
+<?php $company = "HEATH HOME INSPECTIONS";
+$phone = "(740) 364-8765";
+	$address1 = "6060 DEANNA STROLL RD";
+	$address2 = "HEATH, OH 43056";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
